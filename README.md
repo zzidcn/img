@@ -1,2 +1,1 @@
-# imghost
-img.zzid.cn个人资源存档
+# 个人静态资源存档
